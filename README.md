@@ -33,7 +33,7 @@ The list of games includes:
 `$ brain-progression`  
 
 <p align="center">
-  <img alt="RSS Reader main page" width="561"  src="https://user-images.githubusercontent.com/29301041/54425631-a917c400-477a-11e9-85b3-dfb32673812f.png">
+  <img alt="RSS Reader main page" width="561"  src="https://user-images.githubusercontent.com/29301041/54426436-ba61d000-477c-11e9-9ded-136b1a722f34.png">
 </p>
 
 
