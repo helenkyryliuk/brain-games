@@ -4,6 +4,8 @@
 
 # Brain games
 
+## :white_check_mark: General info
+
 ### install
 
 `npm install helen_brain_game`
@@ -19,9 +21,21 @@ The list of games includes:
 5. What number is missing in this progression?
 6. Is this number prime?
 
-### EXAMPLES
+## :hammer: Technologies
+
+* ES6
+* Node.js
+* Eslint
+* Travic CI
+
+## :file_folder: Examples
 
 `$ brain-progression`  
+
+<p align="center">
+  <img alt="RSS Reader main page" width="561"  src="https://user-images.githubusercontent.com/29301041/54425631-a917c400-477a-11e9-85b3-dfb32673812f.png">
+</p>
+
 
 ```Welcome to the Brain Game!
 What number is missing in this progression?
