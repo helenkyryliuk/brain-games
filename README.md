@@ -1,5 +1,5 @@
 [![Build Status](https://travis-ci.org/helenkyryliuk/Brain-Games.svg?branch=master)](https://travis-ci.org/helenkyryliuk/Brain-Games)
-[![Maintainability](https://api.codeclimate.com/v1/badges/395420801cd2ea6ed4f6/maintainability)](https://codeclimate.com/github/helenkyryliuk/project-lvl1-s176/maintainability)
+[![Maintainability](https://api.codeclimate.com/v1/badges/b0984f67196d0cfaf0f0/maintainability)](https://codeclimate.com/github/helenkyryliuk/Brain-Games/maintainability)
 
 
 # Brain games
