@@ -10,16 +10,10 @@
 
 `npm install helen_brain_game`
 
-### A set of mini-games that are run from the console on nodejs
+### A set of mini-games that are run from the console on Node.js
 This kind of games are usually called brain games.  
 
 The list of games includes:  
-1. Answer "yes" if number even otherwise answer "no"
-2. Calculator
-3. Find the greatest common divisor of given numbers
-4. Balance the given number
-5. What number is missing in this progression?
-6. Is this number prime?
 
 ## :hammer: Technologies
 
@@ -27,92 +21,39 @@ The list of games includes:
 * Node.js
 * Eslint
 * Travic CI
+* Npm
 
 ## :file_folder: Examples
 
-`$ brain-progression`  
+1. What number is missing in this progression? Command: `$ brain-progression`
 
 <p align="center">
-  <img alt="RSS Reader main page" width="800"  src="https://user-images.githubusercontent.com/29301041/54426436-ba61d000-477c-11e9-9ded-136b1a722f34.png">
+  <img alt="brain progression game example" width="800"  src="https://user-images.githubusercontent.com/29301041/54481802-651ddf80-489e-11e9-96a3-c33b19c4537a.png">
 </p>
 
+2. Balance the given number. Command: `$ brain-balance`
 
-```Welcome to the Brain Game!
-What number is missing in this progression?
+<p align="center">
+  <img alt="brain progression game example" width="800"  src="https://user-images.githubusercontent.com/29301041/54481859-250b2c80-489f-11e9-899c-bfe0514c3291.png">
+</p>
 
-May I have your name? John
-Hello, John!
+3. Is this number prime? Command: `$ brain-prime`
 
-Question: 14 .. 18 20 22 24 26 28
-Your answer: 16
-Correct!
-Question: 5 6 7 8 9 .. 11 12
-Your answer: 10
-Correct!
-Question: 12 15 18 21 .. 27 30 33
-Your answer: 24
-Correct!
-Congratulations, John!
-```
+<p align="center">
+  <img alt="brain even game example" width="800"  src="https://user-images.githubusercontent.com/29301041/54481955-a0211280-48a0-11e9-9900-5ddedb90cba3.png">
+</p>
 
-`$ brain-balance`
+4. Answer "yes" if number even otherwise answer "no". Command: `$ brain-even`
 
-```Welcome to the Brain Game!
-Balance the given number.
+<p align="center">
+  <img alt="brain even game example" width="800"  src="https://user-images.githubusercontent.com/29301041/54426436-ba61d000-477c-11e9-9ded-136b1a722f34.png">
+</p>
 
-May I have your name? Sam
-Hello, Sam!
+5. Calculator. Command: `$ brain-calc`
 
-Question: 215
-Your answer: 233
-Correct!
-Question: 4181
-Your answer: 3344
-Correct!
-Question: 355
-Your answer: 445
-Correct!
-Congratulations, Sam!
-```  
+ <img alt="brain even game example" width="800"  src="https://user-images.githubusercontent.com/29301041/54481990-2dfcfd80-48a1-11e9-8100-3e37c16ec465.png">
+</p>
 
-`$ brain-even`
-
-```Welcome to the Brain Games!
-Answer "yes" if number even otherwise answer "no".
-
-May I have your name? Sam
-Hello, Sam!
-
-Question: 15
-Your answer: no
-Correct!
-Question: 6
-Your answer: yes
-Correct!
-Question: 7
-Your answer: no
-Correct!
-Congratulations, Sam!
-```
-
-`$ brain-calc`
-
-```Welcome to the Brain Games!
-What is the result of the expression?
-
-May I have your name? Sam
-Hello, Sam!
-
-Question: 4 + 10
-Your answer: 14
-Correct!
-Question: 25 - 11
-Your answer: 14
-Correct!
-Question: 25 * 7
-Your answer: 175
-Correct!
-Congratulations, Sam!
-```
+6. Find the greatest common divisor of given numbers. Command: `$ brain-gcd`
 
 
