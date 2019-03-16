@@ -1,5 +1,6 @@
 import { cons } from 'hexlet-pairs';
 import { generalGame } from '..';
+import findRandomnNum from './randomNum';
 
 const describePrime = 'Answer "yes" if number prime otherwise answer "no".';
 const isPrime = (num) => {
@@ -14,7 +15,7 @@ const isPrime = (num) => {
 };
 
 const checkPrime = () => {
-  const num = Math.floor(Math.random() * 100);
+  const num = findRandomnNum();
   const correct = isPrime(num) ? 'yes' : 'no';
   return cons(num, correct);
 };

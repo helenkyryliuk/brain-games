@@ -7,7 +7,7 @@ const gcd1 = (num1, num2) => {
   if (num2 === 0) {
     return num1;
   }
-  return (num2, num1 % num2);
+  return gcd1(num2, num1 % num2);
 };
 const checkGcd = () => {
   const a = Math.floor(Math.random() * 100);

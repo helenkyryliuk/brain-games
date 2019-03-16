@@ -8,7 +8,7 @@
 
 ### install
 
-`npm install helen_brain_game`
+`npm install -g helen_brain_game`
 
 ### A set of mini-games that are run from the console on Node.js
 This kind of games are usually called brain games.  
@@ -34,13 +34,13 @@ The list of games includes:
 2. Balance the given number. Command: `$ brain-balance`
 
 <p align="center">
-  <img alt="brain progression game example" width="800"  src="https://user-images.githubusercontent.com/29301041/54481859-250b2c80-489f-11e9-899c-bfe0514c3291.png">
+  <img alt="brain balance game example" width="800"  src="https://user-images.githubusercontent.com/29301041/54481859-250b2c80-489f-11e9-899c-bfe0514c3291.png">
 </p>
 
 3. Is this number prime? Command: `$ brain-prime`
 
 <p align="center">
-  <img alt="brain even game example" width="800"  src="https://user-images.githubusercontent.com/29301041/54481955-a0211280-48a0-11e9-9900-5ddedb90cba3.png">
+  <img alt="brain prime game example" width="800"  src="https://user-images.githubusercontent.com/29301041/54481955-a0211280-48a0-11e9-9900-5ddedb90cba3.png">
 </p>
 
 4. Answer "yes" if number even otherwise answer "no". Command: `$ brain-even`
@@ -51,9 +51,15 @@ The list of games includes:
 
 5. Calculator. Command: `$ brain-calc`
 
- <img alt="brain even game example" width="800"  src="https://user-images.githubusercontent.com/29301041/54481990-2dfcfd80-48a1-11e9-8100-3e37c16ec465.png">
+<p align="center">
+ <img alt="brain calculator game example" width="800"  src="https://user-images.githubusercontent.com/29301041/54481990-2dfcfd80-48a1-11e9-8100-3e37c16ec465.png">
 </p>
 
 6. Find the greatest common divisor of given numbers. Command: `$ brain-gcd`
+
+<p align="center">
+<img alt="brain greatest common divisor game example" width="800"  src="https://user-images.githubusercontent.com/29301041/54482891-407e3380-48af-11e9-92c7-3bc3de15a349.png">
+</p>
+
 
 
