@@ -11,9 +11,7 @@
 `npm install -g helen_brain_game`
 
 ### A set of mini-games that are run from the console on Node.js
-This kind of games are usually called brain games.  
-
-The list of games includes:  
+This kind of games are usually called brain games.    
 
 ## :hammer: Technologies
 
