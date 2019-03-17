@@ -1,6 +1,5 @@
-[![Build Status](https://travis-ci.org/helenkyryliuk/Brain-Games.svg?branch=master)](https://travis-ci.org/helenkyryliuk/Brain-Games)
-[![Maintainability](https://api.codeclimate.com/v1/badges/b0984f67196d0cfaf0f0/maintainability)](https://codeclimate.com/github/helenkyryliuk/Brain-Games/maintainability)
-
+[![Build Status](https://travis-ci.org/helenkyryliuk/brain-games.svg?branch=master)](https://travis-ci.org/helenkyryliuk/brain-games)
+[![Maintainability](https://api.codeclimate.com/v1/badges/c685d768dbfe220e6cfc/maintainability)](https://codeclimate.com/github/helenkyryliuk/brain-games/maintainability)
 
 # Brain games
 
